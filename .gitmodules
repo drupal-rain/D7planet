@@ -1,0 +1,4 @@
+[submodule "profiles/planet"]
+	path = profiles/planet
+	url = git@github.com:drupal-rain/planet.git
+	branch = 7.x-1.x
